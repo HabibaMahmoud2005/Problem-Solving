@@ -7,15 +7,14 @@ It is meant as a personal archive and a resource for practicing competitive prog
 
 ## 📂 Repository Structure
 
-📦 Competitive-Programming-Solutions  
-│  
 ├── **ICPC-Assiut/** → Solutions to Assiut University training sheets  
 │   ├── Sheet-1-newcomers → Each sheet has its own folder  
 │   ├── Sheet-2-juniors1
-|
+│   └── ...  
+│  
 ├── **Codeforces/** → Solutions to Codeforces contests  
 │  
-└── **Notes/** → Additional useful resources  
+└── **Notes/** → Additional useful resources 
 
 ---
 
