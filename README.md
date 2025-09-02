@@ -5,19 +5,6 @@ It is meant as a personal archive and a resource for practicing competitive prog
 
 ---
 
-## 📂 Repository Structure
-
-├── **ICPC-Assiut/** → Solutions to Assiut University training sheets  
-│   ├── Sheet-1-newcomers → Each sheet has its own folder  
-│   ├── Sheet-2-juniors1
-│   └── ...  
-│  
-├── **Codeforces/** → Solutions to Codeforces contests  
-│  
-└── **Notes/** → Additional useful resources 
-
----
-
 ## 🎯 Goals
 - Solve all **ICPC Assiut training materials**.  
 - Practice regularly in **Codeforces Div contests**.  
