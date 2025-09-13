@@ -1,6 +1,6 @@
 # 🚀 Competitive Programming Solutions
 
-This repository contains my solutions to **ICPC Assiut University training sheets** and **Codeforces contests**.  
+This repository contains my solutions to **ICPC Assiut University training sheets**,**JavaScript** and **Codeforces contests**.  
 It is meant as a personal archive and a resource for practicing competitive programming.
 
 ---
