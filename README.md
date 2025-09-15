@@ -1,22 +1,22 @@
-# 🚀 Competitive Programming Solutions
+# 🚀 Problem-Solving
 
-This repository contains my solutions to **ICPC Assiut University training sheets**,**JavaScript** and **Codeforces contests**.  
-It is meant as a personal archive and a resource for practicing competitive programming.
+This repository contains my solutions to:  
+- **ICPC Assiut University training sheets**  
+- **JavaScript and Python problem sets**  
+- **Codeforces contests**  
+
+It serves as both a **personal archive** and a **resource for practice and reference**.
 
 ---
 
 ## 🎯 Goals
-- Solve all **ICPC Assiut training materials**.  
+- Solve all **ICPC Assiut University training materials**.  
 - Practice regularly in **Codeforces Div contests**.  
-- Keep solutions organized and easy to reference.  
-
----
-
-## ⚡ How to Use
-- Navigate to the folder you’re interested in.  
-- Each problem is named after its problem code (A, B, C...).   
+- Strengthen problem-solving skills in **JavaScript** and **Python**.  
+- Keep solutions **organized, accessible, and reusable**.  
 
 ---
 
 ## 📌 Notes
-- This repository is for **practice and learning**.
+- This repository is intended for **practice and learning purposes**.  
+- Code may not always be the most optimized, but it reflects the **problem-solving process**.  
